@@ -1,0 +1,46 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.full-wd {
+  width: 100%;
+}
+.align-center {
+  text-align: center;
+}
+.large-font {
+  font-size: large;
+}
+.mar-bot-5px {
+  margin-bottom: 5px;
+}
+.mar-rt-10px {
+  margin-right: 10px;
+}
+.app-inline-page {
+  border: none;
+}
+.app-page-hdng {
+  font-size: xx-large;
+  text-align: center;
+  padding: 15px 0px 0px 15px;  
+}
+.app-prg-bar {
+  position: absolute;
+}
+.app-tbl-emb {
+  float:left;
+  width:100%;
+  background-color: #fff;
+}
+.app-tbl-emb .mat-row:nth-child(even):not(.data-table-cell-sel){
+  background-color: #f6f6f6;
+}
+.app-tbl-emb-scroll {
+  float:left;
+  width:100%;
+  height: calc(100% - 55px);
+  background-color: #fff;
+  overflow-y: auto;
+}

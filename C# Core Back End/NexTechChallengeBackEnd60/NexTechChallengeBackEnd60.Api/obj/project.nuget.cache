@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hJiatK1WIy02HP3Oi1QDp661KVumJn67VDXPUtqXvC28Z4ccv2gO03pfeedL0lbW5lHK3s6rCUdoS/15jTflQQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Felichillies\\Amazon Drive\\Amazon Drive\\Felicianos\\Jason\\Code Projects\\C# Core Back End\\NexTechChallengeBackEnd60\\NexTechChallengeBackEnd60.Api\\NexTechChallengeBackEnd60.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felichillies\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Felichillies\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Felichillies\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Felichillies\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Felichillies\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Felichillies\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
